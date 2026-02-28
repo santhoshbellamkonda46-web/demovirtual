@@ -1,2 +1,7 @@
 Silent don't laugh it's a serious matter
+<<<<<<< HEAD
 pain of process is progress
+=======
+evadaina "jai babu analsindhey"
+>>>>>>> 2ccd51373e7e7bd44af6bbc49e6e7bbbf03e2562
+god is great
